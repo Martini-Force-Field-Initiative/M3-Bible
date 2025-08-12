@@ -4,7 +4,7 @@
   <a href="./building_block_table.pdf"><b>Building block reference table to guide bead type choice</b></a>
 </p>
 
-The building block table generation is generated from a database made from Refs. [1-6] and powered by CGsmiles [7]. 
+The building block table is generated from a database compiled from Refs. [1-6] and powered by CGsmiles [7]. 
 
 
 ## References
@@ -21,5 +21,4 @@ The building block table generation is generated from a database made from Refs.
 
 6. Kjølbye, L.R.; et al., [*Chemrxiv* **2024**, DOI: 10.26434/ chemrxiv-2024-bf4n8](https://doi.org/10.26434/chemrxiv-2024-bf4n8).
 
-7.  Grünewald, F.; et al., [*J. Chem. Inf. Model.* **2025**, *65*, 3405](https://doi.org/10.1021/acs.jcim.5c00064).
-
+7. Grünewald, F.; et al., [*J. Chem. Inf. Model.* **2025**, *65*, 3405](https://doi.org/10.1021/acs.jcim.5c00064).
